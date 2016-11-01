@@ -1,0 +1,14 @@
+ Volume in drive C is Acer
+ Volume Serial Number is C06F-EE75
+
+ Directory of C:\Users\Prashant\Desktop\git_eclipse
+
+11/01/2016  11:32 AM    <DIR>          .
+11/01/2016  11:32 AM    <DIR>          ..
+11/01/2016  03:19 AM    <DIR>          .metadata
+11/01/2016  03:24 AM    <DIR>          .recommenders
+11/01/2016  03:21 AM    <DIR>          Git Bash.lnk
+11/01/2016  03:22 AM    <DIR>          HelloWorld
+11/01/2016  11:32 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               6 Dir(s)  175,595,720,704 bytes free
